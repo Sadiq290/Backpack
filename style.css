@@ -1,0 +1,56 @@
+@media only screen and (min-width:980px){
+    .space-1{
+        padding-right:370px;
+    }
+}
+header{
+    background-color: #fffff4;
+}
+.nav-color{
+    background-color: #fffff4 ;
+}
+.icon{
+    height:40px;
+    width:120px;
+    padding-left:10px;
+}
+.width-1{
+    width:90%;
+}
+p,h6{
+    font-family: 'Poppins', sans-serif;
+}
+
+.my-card{
+    border:0;
+    border-radius:3%;
+}
+@media only screen and (max-width:768px){
+    .captain{
+         flex-direction: column-reverse;
+    }
+}
+.bag-card-all img{
+    background-color:lightgrey;
+    padding: 10px;
+    margin: 20px 0px 20px 20px;
+    width:90%;
+    border-radius:2%;
+}
+.bag-card{
+     background-color:white;
+     border-radius:5%;
+}
+.icon-2{
+    height:40px;
+    width:120px;
+    padding-left:0px;
+}
+.justice{
+    position: relative;
+    bottom:20px;
+    right: 20px;
+}
+.justice-2 img{
+}
+.button 
